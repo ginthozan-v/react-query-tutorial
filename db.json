@@ -1,0 +1,63 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Batman 22",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Women",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "Barry Allen",
+      "id": 4
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batzon",
+      "id": 5
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "Selina Kyle",
+      "id": 6
+    },
+    {
+      "name": "Hello",
+      "alterEgo": "gggg",
+      "id": 7
+    },
+    {
+      "name": "Hello 2",
+      "alterEgo": "gggg",
+      "id": 8
+    },
+    {
+      "name": "Hello 22",
+      "alterEgo": "gggg",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ]
+}
